@@ -224,9 +224,7 @@
                     }
                 }
             }
-        }, 
-     
-     "ParksorMarina": {
+        }, "ParksorMarina": {
         "Asphalt/Concrete Repair-Marina": {
             "Work Group": "Park of Marina Maintenance",
             "Work Type": "Asphalt/Concrete Repair-Marina",
@@ -346,6 +344,116 @@
                 }
             }
         }
-    }
+    },
+        "Road Maintenance": {
+        "Asphalt Repair/Pothole": {
+            "Work Group": "Roads",
+            "Work Type": "Asphalt Repair-Pothole",
+            "Address": "",
+            "Status": "",
+            "AssetId": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "Pavement Maintenance Report": {
+                "A Patch (Sq Ft)": "",
+                "B Patch (Sq Ft)": "",
+                "Potholes Filled": "",
+                "Curb Gutters": "",
+                "Crack Seal (Blocks)": "",
+                "Grinds": "",
+                "Class II": "",
+                "Class III": "",
+                "V Ditches Cleared (Linear Ft)": "",
+                "Barricades Delivered": "",
+                "SWI": "",
+            },
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": "",
+            },
+            "Equipment": {
+                "Add Crew Equipment": "",
+                "Add Equipment": {
+                    "Date": "",
+                    "Crew": "",
+                    "Equipment": "",
+                    "Hours": "",
+                    "Overtime": ""
+                }
+            },
+            "Materials": {
+                "Add Group": "",
+                "Add Material": {
+                    "Material Group": "",
+                    "Material": "",
+                    "Unit": "",
+                }
+            },
+        },
+        "Other Assistance-Roads": {
+            "Work Group": "Roads",
+            "Work Type": "Asphalt Repair-Pothole",
+            "Address": "",
+            "Status": "",
+            "AssetId": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "Pavement Maintenance Report": {
+                "A Patch (Sq Ft)": "",
+                "B Patch (Sq Ft)": "",
+                "Potholes Filled": "",
+                "Curb Gutters": "",
+                "Crack Seal (Blocks)": "",
+                "Grinds": "",
+                "Class II": "",
+                "Class III": "",
+                "V Ditches Cleared (Linear Ft)": "",
+                "Barricades Delivered": "",
+                "SWI": "",
+            },
+            "Cost Account Report": {
+                "Date of Incident": "",
+                "Police Report #": "",
+                "Reinbursement Account #": "",
+                "Responsible Party": "",
+                "Notes For Cost Report": "",
+            },
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": "",
+            },
+            "Equipment": {
+                "Add Crew Equipment": "",
+                "Add Equipment": {
+                    "Date": "",
+                    "Crew": "",
+                    "Equipment": "",
+                    "Hours": "",
+                    "Overtime": ""
+                }
+            },
+            "Materials": {
+                "Add Group": "",
+                "Add Material": {
+                    "Material Group": "",
+                    "Material": "",
+                    "Unit": "",
+                }
+            }
+        }
     }
 }
