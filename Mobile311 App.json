@@ -34,6 +34,14 @@
                         "Hours": "",
                         "Overtime": ""
                     }
+                },
+                "Materials": {
+                    "Add Group": "",
+                    "Add Material": {
+                        "Material Group": "",
+                        "Material": "",
+                        "Unit": "",
+                    }
                 }
             },
             "Sidewalk Grind (Only)": {
@@ -67,6 +75,14 @@
                             "Equipment": "",
                             "Hours": "",
                             "Overtime": ""
+                        }
+                    },
+                    "Materials": {
+                        "Add Group": "",
+                        "Add Material": {
+                            "Material Group": "",
+                            "Material": "",
+                            "Unit": "",
                         }
                     }
                 }
@@ -104,6 +120,14 @@
                         "Hours": "",
                         "Overtime": ""
                     }
+                },
+                "Materials": {
+                    "Add Group": "",
+                    "Add Material": {
+                        "Material Group": "",
+                        "Material": "",
+                        "Unit": "",
+                    }
                 }
             },
             "Sidewalks-Other": {
@@ -138,6 +162,14 @@
                         "Equipment": "",
                         "Hours": "",
                         "Overtime": ""
+                    }
+                },
+                "Materials": {
+                    "Add Group": "",
+                    "Add Material": {
+                        "Material Group": "",
+                        "Material": "",
+                        "Unit": "",
                     }
                 }
             },
@@ -181,6 +213,14 @@
                         "Equipment": "",
                         "Hours": "",
                         "Overtime": ""
+                    }
+                },
+                "Materials": {
+                    "Add Group": "",
+                    "Add Material": {
+                        "Material Group": "",
+                        "Material": "",
+                        "Unit": "",
                     }
                 }
             }
