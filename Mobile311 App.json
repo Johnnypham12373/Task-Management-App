@@ -345,7 +345,7 @@
             }
         }
     },
-        "Road Maintenance": {
+    "Road Maintenance": {
         "Asphalt Repair/Pothole": {
             "Work Group": "Roads",
             "Work Type": "Asphalt Repair-Pothole",
