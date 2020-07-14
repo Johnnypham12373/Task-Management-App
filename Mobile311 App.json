@@ -1,0 +1,137 @@
+"Forms": {
+    "Sidewalk Issues": {
+        "Sidewalk Grind/Patch": {
+            "Work Group": "Sidewalks",
+            "Work Type": "Sidewalk Grind/Patch",
+            "Address": "",
+            "Status": "",
+            "AssetId": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "SW Grind": "",
+            "SW Class II": "",
+            "SW Class III": "",
+            "SW Allcrete": "",
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": "",
+                }
+            }
+        },
+        "Sidewalk Grind (Only)": {
+            "Work Group": "Sidewalks",
+            "Work Type": "Sidewalk Grind (Only)",
+            "Address": "",
+            "Status": "",
+            "AssetId": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "SW Grind": "",
+            "SW Class II": "",
+            "SW Class III": "",
+            "SW Allcrete": "",
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": "",
+                }
+            }
+        },
+        "Sidewalks AC Patch (Only)": {
+            "Work Group": "Sidewalks",
+            "Work Type": "Sidewalks AC Patch (Only)",
+            "Address": "",
+            "Status": "",
+            "AssetId": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "SW Grind": "",
+            "SW Class II": "",
+            "SW Class III": "",
+            "SW Allcrete": "",
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": "",
+                }
+            }
+        },
+        "Sidewalks-Other": {
+            "Work Group": "Sidewalks",
+            "Work Type": "Sidewalks-Other",
+            "Address": "",
+            "Status": "",
+            "AssetId": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "SW Grind": "",
+            "SW Class II": "",
+            "SW Class III": "",
+            "SW Allcrete": "",
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": "",
+                }
+            }
+        },
+        "Sidewalk Inspection": {
+            "Work Group": "Sidewalks",
+            "Work Type": "Sidewalks Inspection",
+            "Address": "",
+            "Status": "",
+            "AssetId": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "SW Grind": "",
+            "SW Class II": "",
+            "SW Class III": "",
+            "SW Allcrete": "",
+            "Reuqest for Services": {
+                "Request Form Signed": "",
+                "Propery Address": "",
+                "Description of Replacement": "",
+                "Agreed Sum in Dollars Upon Completion of Inspection": "",
+                "Signed By": "",
+                "Signed Date": "",
+            },
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": "",
+                }
+            }
+        }
+    }
+}
