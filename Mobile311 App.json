@@ -224,6 +224,126 @@
                     }
                 }
             }
+        }, "ParksorMarina": {
+        "Asphalt/Concrete Repair-Marina": {
+            "Work Group": "Park of Marina Maintenance",
+            "Work Type": "Asphalt/Concrete Repair-Marina",
+            "Address": "", 
+            "Status": "New Request",
+            "Assest ID": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": ""
+                }
+            },
+            "Equipment": {
+                "Add Crew Equipment": "",
+                "Add Equipment": {
+                    "Date": "",
+                    "Crew": "",
+                    "Equipment": "",
+                    "Hours": "",
+                    "Overtime": ""
+                }
+            },
+            "Materials": {
+                "Add Group": "",
+                "Add Material": {
+                    "Material Group": "",
+                    "Material": "",
+                    "Unit": ""
+                }
+            }
+        },
+        "Asphalt/Concrete Repair-Park": {
+            "Work Group": "Park of Marina Maintenance",
+            "Work Type": "Asphalt/Concrete Repair-Park",
+            "Address": "", 
+            "Status": "New Request",
+            "Assest ID": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": ""
+                }
+            },
+            "Equipment": {
+                "Add Crew Equipment": "",
+                "Add Equipment": {
+                    "Date": "",
+                    "Crew": "",
+                    "Equipment": "",
+                    "Hours": "",
+                    "Overtime": ""
+                }
+            },
+            "Materials": {
+                "Add Group": "",
+                "Add Material": {
+                    "Material Group": "",
+                    "Material": "",
+                    "Unit": ""
+                }
+            }
         }
+    },
+    "Storm Response": {
+        "Storm Drain Tops": {
+            "Work Group": "Storm Drain or Sewer",
+            "Work Type": "Storm Drain Tops",
+            "Address": "", 
+            "Status": "New Request",
+            "Assest ID": "",
+            "Description": "",
+            "Comments": "",
+            "Priority": "",
+            "Department": "",
+            "Employees": {
+                "Add Crew": "",
+                "Add Employee": {
+                    "Date": "",
+                    "Crew": "",
+                    "Employee": "",
+                    "Hours": "",
+                    "Overtime": ""
+                }
+            },
+            "Equipment": {
+                "Add Crew Equipment": "",
+                "Add Equipment": {
+                    "Date": "",
+                    "Crew": "",
+                    "Equipment": "",
+                    "Hours": "",
+                    "Overtime": ""
+                }
+            },
+            "Materials": {
+                "Add Group": "",
+                "Add Material": {
+                    "Material Group": "",
+                    "Material": "",
+                    "Unit": ""
+                }
+            }
+        }
+    }
     }
 }
