@@ -24,6 +24,16 @@
                         "Hours": "",
                         "Overtime": ""
                     }
+                },
+                "Equipment": {
+                    "Add Crew Equipment": "",
+                    "Add Equipment": {
+                        "Date": "",
+                        "Crew": "",
+                        "Equipment": "",
+                        "Hours": "",
+                        "Overtime": ""
+                    }
                 }
             },
             "Sidewalk Grind (Only)": {
@@ -48,6 +58,16 @@
                         "Employee": "",
                         "Hours": "",
                         "Overtime": ""
+                    },
+                    "Equipment": {
+                        "Add Crew Equipment": "",
+                        "Add Equipment": {
+                            "Date": "",
+                            "Crew": "",
+                            "Equipment": "",
+                            "Hours": "",
+                            "Overtime": ""
+                        }
                     }
                 }
             },
@@ -74,6 +94,16 @@
                         "Hours": "",
                         "Overtime": ""
                     }
+                },
+                "Equipment": {
+                    "Add Crew Equipment": "",
+                    "Add Equipment": {
+                        "Date": "",
+                        "Crew": "",
+                        "Equipment": "",
+                        "Hours": "",
+                        "Overtime": ""
+                    }
                 }
             },
             "Sidewalks-Other": {
@@ -96,6 +126,16 @@
                         "Date": "",
                         "Crew": "",
                         "Employee": "",
+                        "Hours": "",
+                        "Overtime": ""
+                    }
+                },
+                "Equipment": {
+                    "Add Crew Equipment": "",
+                    "Add Equipment": {
+                        "Date": "",
+                        "Crew": "",
+                        "Equipment": "",
                         "Hours": "",
                         "Overtime": ""
                     }
@@ -129,6 +169,16 @@
                         "Date": "",
                         "Crew": "",
                         "Employee": "",
+                        "Hours": "",
+                        "Overtime": ""
+                    }
+                },
+                "Equipment": {
+                    "Add Crew Equipment": "",
+                    "Add Equipment": {
+                        "Date": "",
+                        "Crew": "",
+                        "Equipment": "",
                         "Hours": "",
                         "Overtime": ""
                     }
